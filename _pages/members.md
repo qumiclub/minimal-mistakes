@@ -5,7 +5,7 @@ read_time: False
 permalink: /members/
 ---
 
-## 5回生
+## 3回生
 
 Hino
 
