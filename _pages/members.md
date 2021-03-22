@@ -7,5 +7,5 @@ permalink: /members/
 
 ## 5回生
 
-
+Hino
 
