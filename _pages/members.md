@@ -2,6 +2,8 @@
 layout: single
 author_profile: True
 read_time: False
+toc: true
+toc_icon: "address-book"
 permalink: /members/
 ---
 # メンバー
