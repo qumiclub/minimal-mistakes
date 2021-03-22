@@ -1,9 +1,9 @@
 ---
 layout: splash
-author_profile: True
+author_profile: true
 read_time: False
-permalink: /
 classes: narrow
+permalink: /
 ---
 <a name="about"></a>
 ## About
