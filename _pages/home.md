@@ -1,6 +1,6 @@
 ---
 layout: splash
-author_profile: true
+author_profile: True
 read_time: False
 classes: narrow
 permalink: /
