@@ -8,7 +8,7 @@ permalink: /activities/
 ---
 # 活動紹介
 ## 3Dプリンターによる人工ステントの開発
-<img src="/assets/images/activities/stent.jpeg" alt="..." title="＜写真: Roland ARM-10で作成したステントグラフト＞"/>
+<img src="/assets/images/activities/stent.jpeg" alt="＜写真: Roland ARM-10で作成したステントグラフトa＞" title="＜写真: Roland ARM-10で作成したステントグラフト＞"/>
 現在取り組んでいるのは、アクリル酸エステル誘導体が配合された光硬化樹脂を原料としたステントグラフトの開発です。人工ステントそのものは既に存在しており、胸部大動脈瘤の治療などに活用されていますが、金属を材料にしているため金属アレルギーの患者さんには使用できないという問題を抱えています。そこで金属を使用しない、生体に優しいステントグラフトを作ろう！というのが最終的な目標となります。
 現時点ではARM-10専用の樹脂を用いてステントグラフトを制作することに成功しました。今後はそのステントを実際に生体に使用できるのか？そしてどのようなデザインと原料を用いるとより長期的かつ高い治療効果を望めるのかを追究していく所存です。（久恒）
 
@@ -18,7 +18,11 @@ permalink: /activities/
 現時点ではLVEを発表した論文に記載されている手順と材料を元に、LVE本体の組み立てとモーターの取り付けが完了しております。LINGLONGという比較的取り付けやすい3DプリンターでLVEが動作するかを試行中です。（久恒）
 
 ## 3Dプリンター造形例（岩村）
+<img src="/assets/images/activities/heart2.jpeg" alt="..." title="＜写真: Roland ARM-10で造形した心臓モデル＞"/>
 
+<img src="/assets/images/activities/cervical.jpeg" alt="..." title="＜写真: Roland ARM-10で造形した頚椎モデル＞"/>
+
+<img src="/assets/images/activities/cervical.jpeg" alt="..." title="＜写真: Roland ARM-10で造形した頚椎モデル＞"/>
 ## 機械学習学習会
 
 ## ドナーカード作成
