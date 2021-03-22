@@ -9,7 +9,7 @@ permalink: /members/
 # メンバー
 ## 6回生
 <dl>
-<dt><img src="/assets/images/members/hino.png"  alt="..." /></dt>
+<!---<dt><img src="/assets/images/members/hino.png"  alt="..." /></dt>--->
 <dt>日野雅喜</dt>
 <dd>興味分野: 生物学・量子力学</dd>
 <dd>ひとこと: 新しいことを知りたいです！</dd>
@@ -22,6 +22,7 @@ permalink: /members/
 
 ## 4回生
 <dl>
+<!---<dt><img src="/assets/images/members/ikami.png"  alt="..." /></dt>--->
 <dt>居上稜裕</dt>
 <dd>興味分野: 工学、プログラミング、機械学習、数学、音楽</dd>
 <dd>ひとこと: よろしくおねがいします</dd>
