@@ -4,7 +4,7 @@ author_profile: True
 read_time: False
 toc: true
 toc_icon: "address-book"
-permalink: /members/
+permalink: /activities/
 ---
 # 活動紹介
 ## 3Dプリンターによる人工ステントの開発
