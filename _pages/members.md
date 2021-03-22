@@ -9,6 +9,7 @@ permalink: /members/
 # メンバー
 ## 6回生
 <dl>
+<dt><img src="assets/images/members/hino.png"  alt="..." /></dt>
 <dt>日野雅喜</dt>
 <dd>興味分野: 生物学・量子力学</dd>
 <dd>ひとこと: 新しいことを知りたいです！</dd>
