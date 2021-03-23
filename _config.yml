@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "QU MIC"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "九州大学医系サークル・メディカルイノベーションクラブです．病院キャンパスで3dプリンターによる医療機器開発や機械学習の勉強会等の活動を行っています．"
+  bio              : "九州大学医系サークル・メディカルイノベーションクラブです．病院キャンパスで3Dプリンターによる医療機器開発や機械学習の勉強会等の活動を行っています．"
   location         : "Fukuoka, Japan"
   email            :
   links:
