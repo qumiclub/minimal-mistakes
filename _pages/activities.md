@@ -28,8 +28,21 @@ permalink: /activities/
 ![頚椎モデル](/assets/images/activities/cervical.jpeg)
 <br>＜写真: Roland ARM-10で造形した頚椎モデル＞
 
-<img src="/assets/images/activities/cervical.jpeg" alt="..." title="＜写真: Roland ARM-10で造形した頚椎モデル＞"/>
+![左大脳半球モデル](/assets/images/activities/cerebrum.jpeg)
+<br>＜写真: Roland ARM-10で造形した左大脳半球モデル＞
+
+![心臓モデル](/assets/images/activities/heart.jpeg)
+<br>＜写真: Makerbot Replicator+で造形した心臓モデル＞
+
+![プレビュー](/assets/images/activities/planning.jpeg)
+<br>＜写真: Makerbot replicator+のプレビュー＞
+
+![プレビュー](/assets/images/activities/kidney.jpeg)
+<br>＜写真: 腎臓モデル造形中のMakerbot Replicator+＞
+
 ## 機械学習学習会
+![機械学習](/assets/images/activities/machine_learning.png)
+<br>外部の学生を加え、輪読会形式で勉強会を行っている。
 
 ## ドナーカード作成
 臓器提供意思表示数増加を目的としたコラボ・ドナーカード作成を行った。
@@ -39,3 +52,5 @@ permalink: /activities/
 * 臓器提供意思表示欄を有した医療情報カードをデザインし制作、企業に500部納入
 
 ## 電子工作
+![電子工作](/assets/images/activities/electronics.png)
+<br>Arduino等を用いた電子工作活動
