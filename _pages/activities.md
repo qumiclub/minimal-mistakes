@@ -9,6 +9,7 @@ permalink: /activities/
 # 活動紹介
 ## 3Dプリンターによる人工ステントの開発
 ![ステントグラフト](/assets/images/activities/stent.jpeg)
+<br>＜写真: Roland ARM-10で作成したステントグラフト＞
 
 <img src="/assets/images/activities/stent.jpeg" alt="＜写真: Roland ARM-10で作成したステントグラフト＞" title="＜写真: Roland ARM-10で作成したステントグラフト＞"/>
 <br>＜写真: Roland ARM-10で作成したステントグラフト＞
