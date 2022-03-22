@@ -11,7 +11,7 @@ permalink: /members/
 <dl>
 <!---<dt><img src="/assets/images/members/hino.png"  alt="..." /></dt>--->
 <dt>日野雅喜</dt>
-<dd>興味分野: 統計学</dd>
+<dd>興味分野: unk</dd>
 <dd>ひとこと: 新しいことを知りたいです！</dd>
 
 <dt>吉澤遼一</dt>
