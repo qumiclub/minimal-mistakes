@@ -7,11 +7,11 @@ toc: true
 toc_icon: "address-book"
 permalink: /members/
 ---
-## 5回生
+## 6回生
 <dl>
 <!---<dt><img src="/assets/images/members/hino.png"  alt="..." /></dt>--->
 <dt>日野雅喜</dt>
-<dd>興味分野: unk</dd>
+<dd>興味分野: 統計学</dd>
 <dd>ひとこと: 新しいことを知りたいです！</dd>
 
 <dt>吉澤遼一</dt>
@@ -19,12 +19,12 @@ permalink: /members/
 <dd>ひとこと: 医者志望じゃない堕医学生です</dd>
   
 <dt>大塚直人</dt>
-<dd>興味分野: 機械学習、神経科学、計算論的精神医学</dd>
+<dd>興味分野: Web3、機械学習、神経科学、計算論的精神医学</dd>
 <dd>ひとこと: 最近入ったばかりですが、よろしくお願いします。</dd>
 </dl>
 
 
-## 3回生
+## 4回生
 <dl>
 <!---<dt><img src="/assets/images/members/ikami.png"  alt="..." /></dt>--->
 <dt>居上稜裕</dt>
