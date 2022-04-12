@@ -7,6 +7,11 @@ toc: true
 toc_icon: "microscope"
 permalink: /activities/
 ---
+
+## AtCoder
+部員が2人AtCoderやってます。
+AtCoderやってる人、興味ある人も大歓迎です！！！
+
 ## 3Dプリンターによる人工ステントの開発
 ![ステントグラフト](/assets/images/activities/stent.jpeg)
 <br>＜写真: Roland ARM-10で作成したステントグラフト＞
@@ -39,10 +44,6 @@ permalink: /activities/
 
 ![プレビュー](/assets/images/activities/kidney.jpeg)
 <br>＜写真: 腎臓モデル造形中のMakerbot Replicator+＞
-
-## 機械学習学習会
-![機械学習](/assets/images/activities/machine_learning.png)
-<br>外部の学生を加え，輪読会形式で勉強会を行っている．
 
 ## ドナーカード作成
 臓器提供意思表示数増加を目的としたコラボ・ドナーカード作成を行った．
